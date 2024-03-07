@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
