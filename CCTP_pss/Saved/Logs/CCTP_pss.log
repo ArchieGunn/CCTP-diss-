@@ -1349,3 +1349,91 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.07-21.42.09:788][235]AssetCheck: New page: Asset Save: BP_Skillslot
 [2024.03.07-21.42.09:788][235]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Skillslot.BP_Skillslot
 [2024.03.07-21.42.17:088][ 23]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.07-21.45.00:283][133]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.07-21.45.00:291][133]LogBlueprint: Error: [AssetLog] C:\Users\archi\Documents\gitkraken\CCTP-diss-\CCTP_pss\Content\ThirdPerson\Blueprints\BP_UI_Skilltree.uasset: [Compiler] Binding: Property ' /Script/UMG.TextBlock:ColorAndOpacityDelegate ' on Widget ' TextBlock_1 ': Binding: 'None' : 'None' was not found on 'BP UI Skilltree'.
+[2024.03.07-21.45.00:319][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.07-21.45.00:659][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.45.00:724][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_UI_Skilltree" FILE="C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset" SILENT=true
+[2024.03.07-21.45.00:740][153]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.07-21.45.00:740][153]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_SkilltreeA949173B451A5378BFD3D2B254DF9F04.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.07-21.45.00:747][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 457 ms)
+[2024.03.07-21.45.00:748][153]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.07-21.45.00:748][153]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.07-21.45.27:747][608]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.07-21.45.27:780][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.07-21.45.28:683][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.45.28:738][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_UI_Skilltree" FILE="C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset" SILENT=true
+[2024.03.07-21.45.28:755][655]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.07-21.45.28:755][655]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_SkilltreeF69F2AC74E302552B3B704905F3B3BDB.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.07-21.45.28:762][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 535 ms)
+[2024.03.07-21.45.28:763][655]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.07-21.45.28:763][655]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.07-21.49.33:174][436]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.07-21.49.33:213][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.03.07-21.49.37:075][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.49.37:132][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_UI_Skilltree" FILE="C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset" SILENT=true
+[2024.03.07-21.49.37:150][809]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.07-21.49.37:151][809]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_SkilltreeE006198D4DD76394C1D29C8A3EF9F098.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.07-21.49.37:156][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 618 ms)
+[2024.03.07-21.49.37:157][809]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.07-21.49.37:158][809]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.07-21.50.10:456][650]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.03.07-21.50.10:466][650]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.03.07-21.50.10:482][651]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.03.07-21.50.17:709][313]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Menu
+[2024.03.07-21.50.17:710][313]LogContentBrowser: End creating deferred item NewInputAction
+[2024.03.07-21.50.19:387][467]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Menu.IA_Menu
+[2024.03.07-21.50.39:152][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.50.39:212][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Menu" FILE="C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Menu.uasset" SILENT=true
+[2024.03.07-21.50.39:213][637]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Menu
+[2024.03.07-21.50.39:213][637]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/IA_Menu656DB45242B8EB7F68C44D9E4D9592BC.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Menu.uasset'
+[2024.03.07-21.50.39:221][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 687 ms)
+[2024.03.07-21.50.39:221][637]AssetCheck: New page: Asset Save: IA_Menu
+[2024.03.07-21.50.39:221][637]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Menu.IA_Menu
+[2024.03.07-21.50.46:309][236]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.03.07-21.50.50:688][697]LogSlate: Took 0.000099 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.07-21.51.09:041][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.51.09:078][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.03.07-21.51.09:081][686]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2024.03.07-21.51.09:081][686]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/IMC_DefaultE6CE94684740BA69E2E236A101048C73.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2024.03.07-21.51.09:089][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 735 ms)
+[2024.03.07-21.51.09:090][686]AssetCheck: New page: Asset Save: IMC_Default
+[2024.03.07-21.51.09:090][686]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.03.07-21.51.15:141][323]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Menu.IA_Menu
+[2024.03.07-21.51.28:523][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.51.28:577][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Menu" FILE="C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Menu.uasset" SILENT=true
+[2024.03.07-21.51.28:578][801]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Menu
+[2024.03.07-21.51.28:579][801]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/IA_MenuBD756D2141A40CBDAB0FF4918A502D9E.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Menu.uasset'
+[2024.03.07-21.51.28:584][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 795 ms)
+[2024.03.07-21.51.28:585][801]AssetCheck: New page: Asset Save: IA_Menu
+[2024.03.07-21.51.28:585][801]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/ThirdPerson/Input/Actions/IA_Menu.IA_Menu
+[2024.03.07-21.54.03:311][131]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.07-21.54.03:377][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.07-21.54.03:752][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.54.03:860][153]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.07-21.54.03:861][153]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter451AD7FF4C9B65CDFD8717B14311E206.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.07-21.54.03:868][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 912 ms)
+[2024.03.07-21.54.03:869][153]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.07-21.54.03:870][153]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.07-21.55.23:975][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.03.07-21.55.23:977][736]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2024.03.07-21.55.23:977][736]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.03.07-21.55.24:031][736]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.03.07-21.55.24:032][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.03.07-21.55.24:046][736]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.03.07-21.55.24:046][736]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter_Auto1BA71E619401F3666186DF9936ED9BFCB.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.03.07-21.55.24:047][736]LogFileHelpers: Auto-saving content packages took 0.070
+[2024.03.07-21.57.26:623][767]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.07-21.57.26:696][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.03.07-21.57.27:099][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.57.27:206][787]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.07-21.57.27:207][787]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter5008D71C4CE87D25B71DC78AAF89BD50.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.07-21.57.27:214][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.02 sec)
+[2024.03.07-21.57.27:216][787]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.07-21.57.27:216][787]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.07-21.58.32:424][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.07-21.58.32:539][981]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.07-21.58.32:540][981]LogSavePackage: Moving 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter9A229AF941D9DFA65CDA19A50C9D0537.tmp' to 'C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.07-21.58.32:547][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1.15 sec)
+[2024.03.07-21.58.32:548][981]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.07-21.58.32:548][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
