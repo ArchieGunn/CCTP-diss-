@@ -2951,3 +2951,217 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.09-16.36.59:395][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
 [2024.03.09-16.36.59:433][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
 [2024.03.09-16.36.59:515][483]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.03.09-16.39.34:474][285]BlueprintLog: New page: Compile BP_Skillslot_Expanded
+[2024.03.09-16.39.34:654][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.03.09-16.39.35:192][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-16.39.35:256][296]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded
+[2024.03.09-16.39.35:257][296]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_Skillslot_Expanded9E37F07341BC13A0AD1823A26875F0BF.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Skillslot_Expanded.uasset'
+[2024.03.09-16.39.35:264][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 3.58 sec)
+[2024.03.09-16.39.35:265][296]AssetCheck: New page: Asset Save: BP_Skillslot_Expanded
+[2024.03.09-16.39.35:265][296]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded.BP_Skillslot_Expanded
+[2024.03.09-16.41.56:621][837]LogSlate: Took 0.004054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.03.09-16.42.50:547][754]BlueprintLog: New page: Compile BP_Skillslot_Expanded
+[2024.03.09-16.42.50:733][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.09-16.42.51:319][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-16.42.51:391][768]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded
+[2024.03.09-16.42.51:391][768]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_Skillslot_Expanded8F6378A245B5D7F1E115A58F833ECD3D.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Skillslot_Expanded.uasset'
+[2024.03.09-16.42.51:397][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 3.66 sec)
+[2024.03.09-16.42.51:398][768]AssetCheck: New page: Asset Save: BP_Skillslot_Expanded
+[2024.03.09-16.42.51:398][768]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded.BP_Skillslot_Expanded
+[2024.03.09-16.43.05:568][116]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.09-16.43.10:955][287]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.09-16.43.19:443][338]LogSlate: Window 'Color Picker' being destroyed
+[2024.03.09-16.43.22:609][547]BlueprintLog: New page: Compile BP_Skillslot_Expanded
+[2024.03.09-16.43.22:803][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.09-16.43.23:559][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-16.43.23:632][571]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded
+[2024.03.09-16.43.23:633][571]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_Skillslot_ExpandedC885E98C416989EB00F8048DC1EE4BAF.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Skillslot_Expanded.uasset'
+[2024.03.09-16.43.23:640][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 3.74 sec)
+[2024.03.09-16.43.23:641][571]AssetCheck: New page: Asset Save: BP_Skillslot_Expanded
+[2024.03.09-16.43.23:641][571]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded.BP_Skillslot_Expanded
+[2024.03.09-16.43.31:891][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.09-16.43.31:895][207]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.09-16.43.31:895][207]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.09-16.43.31:896][207]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 25 ms)
+[2024.03.09-16.43.31:896][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.09-16.43.31:897][207]PIE: New page: PIE session: ThirdPersonMap (9 Mar 2024, 16:43:31)
+[2024.03.09-16.43.31:897][207]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-16.43.31:899][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002589s)
+[2024.03.09-16.43.31:899][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002615s)
+[2024.03.09-16.43.31:923][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.09-16.43.31:925][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.09-16.43.31:925][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.09-16.43.31:925][207]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.09-16.43.31:926][207]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.09-16.43.31:926][207]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.09-16.43.31:926][207]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.09-16.43.31:926][207]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.09-16.43.31:927][207]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.09-16.43.31:927][207]LogWorldPartition: Display: WorldPartition initialize took 775 us (total: 50 ms)
+[2024.03.09-16.43.31:927][207]LogPlayLevel: PIE: World Init took: (0.001808s)
+[2024.03.09-16.43.31:927][207]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.03.09-16.43.31:927][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.09-16.43.31:927][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.09-16.43.31:927][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.09-16.43.31:927][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.09-16.43.31:927][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.09-16.43.31:927][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.09-16.43.31:927][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.09-16.43.31:927][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.09-16.43.31:927][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.09-16.43.31:927][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.09-16.43.31:927][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.09-16.43.31:929][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.09-16.43.31:967][207]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio CODEC )
+[2024.03.09-16.43.31:967][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.09-16.43.31:967][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.09-16.43.31:967][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.09-16.43.31:968][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.03.09-16.43.31:968][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2024.03.09-16.43.31:970][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.03.09-16.43.31:970][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.03.09-16.43.31:970][207]LogInit: FAudioDevice initialized with ID 22.
+[2024.03.09-16.43.31:970][207]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2024.03.09-16.43.31:970][207]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.09-16.43.31:973][207]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.09-16.43.31:975][207]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.03.09-16.43.31
+[2024.03.09-16.43.31:975][207]LogWorld: Bringing up level for play took: 0.001143
+[2024.03.09-16.43.31:976][207]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.03.09-16.43.31:985][207]PIE: Server logged in
+[2024.03.09-16.43.31:985][207]PIE: Play in editor total start time 0.09 seconds.
+[2024.03.09-16.43.33:043][315]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.09-16.43.35:662][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-16.43.35:662][619]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-16.43.35:663][619]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.09-16.43.35:663][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-16.43.35:663][619]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.09-16.43.35:665][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.09-16.43.35:673][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-16.43.35:705][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-16.43.35:705][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.03.09-16.43.35:705][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.09-16.43.35:707][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.03.09-16.43.35:725][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.09-16.43.35:797][620]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.03.09-16.44.05:675][277]BlueprintLog: New page: Compile BP_Skillslot_Expanded
+[2024.03.09-16.44.05:888][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.09-16.44.06:532][290]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-16.44.06:597][290]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded
+[2024.03.09-16.44.06:598][290]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_Skillslot_Expanded2E6CCC8E474510A536A0CE912C842F1C.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Skillslot_Expanded.uasset'
+[2024.03.09-16.44.06:605][290]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 3.82 sec)
+[2024.03.09-16.44.06:606][290]AssetCheck: New page: Asset Save: BP_Skillslot_Expanded
+[2024.03.09-16.44.06:606][290]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded.BP_Skillslot_Expanded
+[2024.03.09-16.44.20:226][224]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.09-16.44.20:231][224]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.09-16.44.20:231][224]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.09-16.44.20:231][224]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 26 ms)
+[2024.03.09-16.44.20:231][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.09-16.44.20:232][224]PIE: New page: PIE session: ThirdPersonMap (9 Mar 2024, 16:44:20)
+[2024.03.09-16.44.20:232][224]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-16.44.20:235][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002469s)
+[2024.03.09-16.44.20:235][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002498s)
+[2024.03.09-16.44.20:261][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.03.09-16.44.20:266][224]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.09-16.44.20:266][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.09-16.44.20:266][224]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.09-16.44.20:267][224]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.09-16.44.20:267][224]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.09-16.44.20:267][224]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.09-16.44.20:267][224]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.09-16.44.20:267][224]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.09-16.44.20:267][224]LogWorldPartition: Display: WorldPartition initialize took 784 us (total: 51 ms)
+[2024.03.09-16.44.20:267][224]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2024.03.09-16.44.20:267][224]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.03.09-16.44.20:268][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.09-16.44.20:268][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.09-16.44.20:268][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.09-16.44.20:268][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.09-16.44.20:268][224]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.09-16.44.20:268][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.09-16.44.20:268][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.09-16.44.20:268][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.09-16.44.20:268][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.09-16.44.20:268][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.09-16.44.20:268][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.09-16.44.20:270][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.09-16.44.20:308][224]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio CODEC )
+[2024.03.09-16.44.20:308][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.09-16.44.20:308][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.09-16.44.20:308][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.09-16.44.20:308][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.03.09-16.44.20:308][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2024.03.09-16.44.20:310][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.03.09-16.44.20:310][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.03.09-16.44.20:310][224]LogInit: FAudioDevice initialized with ID 23.
+[2024.03.09-16.44.20:310][224]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2024.03.09-16.44.20:310][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.09-16.44.20:314][224]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.09-16.44.20:315][224]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.03.09-16.44.20
+[2024.03.09-16.44.20:315][224]LogWorld: Bringing up level for play took: 0.001138
+[2024.03.09-16.44.20:317][224]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.03.09-16.44.20:325][224]PIE: Server logged in
+[2024.03.09-16.44.20:326][224]PIE: Play in editor total start time 0.096 seconds.
+[2024.03.09-16.44.21:585][352]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.09-16.44.24:402][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-16.44.24:402][679]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-16.44.24:402][679]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.09-16.44.24:403][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-16.44.24:403][679]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.09-16.44.24:405][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.09-16.44.24:413][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-16.44.24:450][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-16.44.24:450][679]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.03.09-16.44.24:450][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.09-16.44.24:451][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.03.09-16.44.24:486][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.09-16.44.24:567][680]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.03.09-16.44.50:532][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-16.44.50:568][869]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded
+[2024.03.09-16.44.50:568][869]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_Skillslot_ExpandedDFC1DFD44F79A05054C99782F2CC1B84.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Skillslot_Expanded.uasset'
+[2024.03.09-16.44.50:575][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 3.86 sec)
+[2024.03.09-16.44.50:576][869]AssetCheck: New page: Asset Save: BP_Skillslot_Expanded
+[2024.03.09-16.44.50:576][869]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded.BP_Skillslot_Expanded
+[2024.03.09-16.45.58:662][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.09-16.45.58:686][565]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3
+[2024.03.09-16.45.58:686][565]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/ThirdPersonMap_Auto30643B9E3460D1A37D7F3FE95607CB653.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3.umap'
+[2024.03.09-16.45.58:687][565]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3.umap is in the /Temp path, will not scan.
+[2024.03.09-16.45.58:687][565]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3 is in the /Temp path, will not scan.
+[2024.03.09-16.45.58:687][565]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/ThirdPerson/Maps/ThirdPersonMap_Auto3 is in the /Temp path, will not scan.
+[2024.03.09-16.45.58:689][565]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.055
+[2024.03.09-16.45.58:689][565]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2024.03.09-16.46.43:004][589]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.09-16.46.43:004][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-16.46.43:012][589]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.09-16.46.43:012][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-16.47.29:227][480]BlueprintLog: New page: Compile BP_Skillslot_Expanded
+[2024.03.09-16.47.29:415][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.09-16.47.30:865][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-16.47.30:934][550]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded
+[2024.03.09-16.47.30:935][550]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_Skillslot_Expanded4598689D4A63F39FD1383DB3C2500123.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Skillslot_Expanded.uasset'
+[2024.03.09-16.47.30:942][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 3.93 sec)
+[2024.03.09-16.47.30:943][550]AssetCheck: New page: Asset Save: BP_Skillslot_Expanded
+[2024.03.09-16.47.30:943][550]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_Skillslot_Expanded.BP_Skillslot_Expanded
+[2024.03.09-16.47.34:418][775]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.09-16.47.34:567][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.09-16.51.08:134][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-16.51.08:207][297]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-16.51.08:208][297]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_SkilltreeEA5F6F3F4A57AA9CA9284BB40597C607.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-16.51.08:214][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.01 sec)
+[2024.03.09-16.51.08:215][297]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-16.51.08:215][297]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-17.03.25:726][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.09-17.03.25:740][268]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.046
+[2024.03.09-17.03.25:740][268]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.03.09-17.03.25:740][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.09-17.03.25:780][268]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.03.09-17.03.25:784][268]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.03.09-17.03.25:784][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.03.09-17.03.25:796][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2024.03.09-17.03.25:796][268]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter_Auto4039A14544A4D668683E99697F1D8721C.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2024.03.09-17.03.25:798][268]LogFileHelpers: Auto-saving content packages took 0.058
+[2024.03.09-17.04.31:349][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-17.04.31:411][809]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.09-17.04.31:412][809]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacterE90DD0DA49AA109B9E032EB5E5A2EB65.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.09-17.04.31:422][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.09 sec)
+[2024.03.09-17.04.31:423][809]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.09-17.04.31:423][809]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
