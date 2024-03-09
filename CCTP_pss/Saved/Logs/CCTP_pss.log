@@ -3165,3 +3165,853 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.09-17.04.31:422][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 4.09 sec)
 [2024.03.09-17.04.31:423][809]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2024.03.09-17.04.31:423][809]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.09-17.12.48:942][150]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.03.09-17.12.49:122][150]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=36652
+[2024.03.09-17.12.49:416][151]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{78d85d8c-0819-4425-a82b-abf335b2f6a6}, Name=Speakers (USB Audio CODEC )), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=94.76
+[2024.03.09-17.12.49:417][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.03.09-17.12.49:418][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.09-17.12.55:041][155]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.03.09-17.28.27:092][155]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [932 Seconds] waiting for h/w. InstanceID=1
+[2024.03.09-17.28.30:858][155]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=36652
+[2024.03.09-17.28.30:898][156]LogHttp: Warning: 00000BABD5795500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.03.09-17.28.30:898][156]LogHttp: Warning: 00000BABD5795500: libcurl info message cache 0 (Too old connection (965 seconds idle), disconnect it)
+[2024.03.09-17.28.30:898][156]LogHttp: Warning: 00000BABD5795500: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2024.03.09-17.28.30:898][156]LogHttp: Warning: 00000BABD5795500: libcurl info message cache 2 (Closing connection)
+[2024.03.09-17.28.30:898][156]LogHttp: Warning: 00000BABD5795500: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-17.28.30:898][156]LogHttp: Warning: 00000BABD5795500: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.03.09-17.28.30:899][156]LogHttp: Warning: 00000BABD5795500: libcurl info message cache 5 (Closing connection)
+[2024.03.09-17.28.30:899][156]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.09-17.28.31:350][157]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{78d85d8c-0819-4425-a82b-abf335b2f6a6}, Name=Speakers (USB Audio CODEC )), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=431.42
+[2024.03.09-17.28.31:350][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.03.09-17.28.31:351][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.09-17.33.49:261][111]LogDerivedDataCache: C:/Users/archi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.064 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1164 files in 1871 folders with total size 6 MiB.
+[2024.03.09-18.33.50:227][912]LogDerivedDataCache: C:/Users/archi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.030 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1164 files in 1871 folders with total size 6 MiB.
+[2024.03.09-19.33.49:249][708]LogDerivedDataCache: C:/Users/archi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1164 files in 1871 folders with total size 6 MiB.
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 0 (Found bundle for host: 0xbab561604b0 [serially])
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 6 (Closing connection)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 9 (  Trying 54.86.189.206:443...)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.86.189.206) port 443)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 25 (Server certificate:)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 34 (Closing connection)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.36.25:248][176]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 0 (Found bundle for host: 0xbab561608d0 [serially])
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 6 (Closing connection)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 9 (  Trying 52.72.152.60:443...)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.72.152.60) port 443)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 25 (Server certificate:)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 34 (Closing connection)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: 00000BABD579C800: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.39.24:944][715]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 0 (Found bundle for host: 0xbab56160ea0 [serially])
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 6 (Closing connection)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 9 (  Trying 3.224.20.159:443...)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.224.20.159) port 443)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 25 (Server certificate:)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 34 (Closing connection)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: 00000BABD5793700: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.42.25:302][256]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 0 (Found bundle for host: 0xbab56160180 [serially])
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 6 (Closing connection)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 9 (  Trying 54.226.254.80:443...)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.226.254.80) port 443)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 25 (Server certificate:)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 34 (Closing connection)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: 00000BABD5799600: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-19.45.25:329][796]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.09-20.24.28:118][655]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.09-20.24.28:244][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.09-20.24.29:437][727]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-20.24.29:529][727]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.09-20.24.29:529][727]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter614AAD3147E1C1938E46A3B4D06C0FA4.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.09-20.24.29:537][727]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 4.19 sec)
+[2024.03.09-20.24.29:538][727]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.09-20.24.29:538][727]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.09-20.26.52:520][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.09-20.26.52:530][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.046
+[2024.03.09-20.26.52:530][579]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.03.09-20.26.52:560][579]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.03.09-20.26.52:560][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.03.09-20.26.52:572][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.03.09-20.26.52:572][579]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter_Auto543735E694EAB0E26759B88964F634896.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.03.09-20.26.52:573][579]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.03.09-20.29.01:398][305]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.03.09-20.29.01:531][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.09-20.29.02:181][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-20.29.02:280][335]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.03.09-20.29.02:281][335]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_ThirdPersonCharacter6CE715A8451CA462A925AA911D00167B.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.03.09-20.29.02:289][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 4.29 sec)
+[2024.03.09-20.29.02:291][335]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.03.09-20.29.02:291][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.03.09-20.29.25:602][837]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.03.09-20.29.28:800][ 64]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2024.03.09-20.29.28:818][ 64]LogContentBrowser: Creating deferred item: NewInterface
+[2024.03.09-20.29.28:840][ 65]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2024.03.09-20.29.56:668][ 31]LogContentBrowser: Attempting asset rename: NewInterface -> BP_INTERFACE_ABILITIES
+[2024.03.09-20.29.56:674][ 31]LogContentBrowser: End creating deferred item NewInterface
+[2024.03.09-20.29.58:143][125]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.BP_INTERFACE_ABILITIES
+[2024.03.09-20.29.58:143][125]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.09-20.29.58:143][125]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.09-20.30.02:097][394]BlueprintLog: New page: Compile BP_INTERFACE_ABILITIES
+[2024.03.09-20.30.02:156][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.03.09-20.30.02:725][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-20.30.02:776][430]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES
+[2024.03.09-20.30.02:776][430]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_INTERFACE_ABILITIES82000BF64FB0818F4FC7B691E139CAF2.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.uasset'
+[2024.03.09-20.30.02:798][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.37 sec)
+[2024.03.09-20.30.02:799][430]AssetCheck: New page: Asset Save: BP_INTERFACE_ABILITIES
+[2024.03.09-20.30.02:799][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.BP_INTERFACE_ABILITIES
+[2024.03.09-20.33.49:255][230]LogDerivedDataCache: C:/Users/archi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1164 files in 1871 folders with total size 6 MiB.
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 0 (Found bundle for host: 0xbab56160ae0 [serially])
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 6 (Closing connection)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 9 (  Trying 54.90.230.91:443...)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.90.230.91) port 443)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.09-20.51.25:176][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 25 (Server certificate:)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 26 ( subject: CN=*.ol.epicgames.com)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 27 ( start date: Feb 28 00:00:00 2023 GMT)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 28 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 34 (Closing connection)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: 00000BABD03F0A00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-20.51.25:177][945]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.09-20.52.20:542][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.09-20.52.20:547][290]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.09-20.52.20:547][290]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.09-20.52.20:548][290]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 27 ms)
+[2024.03.09-20.52.20:548][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.09-20.52.20:548][290]PIE: New page: PIE session: ThirdPersonMap (9 Mar 2024, 20:52:20)
+[2024.03.09-20.52.20:548][290]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-20.52.20:550][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002726s)
+[2024.03.09-20.52.20:550][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002753s)
+[2024.03.09-20.52.20:580][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.09-20.52.20:584][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.09-20.52.20:584][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.09-20.52.20:585][290]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.09-20.52.20:585][290]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.09-20.52.20:585][290]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.09-20.52.20:585][290]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.09-20.52.20:585][290]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.09-20.52.20:586][290]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.09-20.52.20:586][290]LogWorldPartition: Display: WorldPartition initialize took 827 us (total: 52 ms)
+[2024.03.09-20.52.20:586][290]LogPlayLevel: PIE: World Init took: (0.001946s)
+[2024.03.09-20.52.20:586][290]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.03.09-20.52.20:586][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.09-20.52.20:586][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.09-20.52.20:586][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.09-20.52.20:586][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.09-20.52.20:586][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.09-20.52.20:586][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.09-20.52.20:586][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.09-20.52.20:586][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.09-20.52.20:587][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.09-20.52.20:587][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.09-20.52.20:587][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.09-20.52.20:588][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.09-20.52.20:629][290]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio CODEC )
+[2024.03.09-20.52.20:629][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.09-20.52.20:629][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.09-20.52.20:629][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.09-20.52.20:630][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.03.09-20.52.20:630][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2024.03.09-20.52.20:632][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.03.09-20.52.20:632][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.03.09-20.52.20:632][290]LogInit: FAudioDevice initialized with ID 24.
+[2024.03.09-20.52.20:632][290]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2024.03.09-20.52.20:632][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.09-20.52.20:636][290]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.09-20.52.20:637][290]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.03.09-20.52.20
+[2024.03.09-20.52.20:637][290]LogWorld: Bringing up level for play took: 0.001441
+[2024.03.09-20.52.20:640][290]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.03.09-20.52.20:648][290]PIE: Server logged in
+[2024.03.09-20.52.20:649][290]PIE: Play in editor total start time 0.103 seconds.
+[2024.03.09-20.52.21:934][430]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.09-20.52.25:412][847]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.03.09-20.52.28:604][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-20.52.28:604][226]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-20.52.28:604][226]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.09-20.52.28:604][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-20.52.28:605][226]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.09-20.52.28:608][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.09-20.52.28:615][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-20.52.28:651][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-20.52.28:652][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.03.09-20.52.28:652][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.09-20.52.28:653][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.03.09-20.52.28:666][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.03.09-20.52.28:752][227]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.03.09-20.52.36:157][ 83]LogViewport: Scene viewport resized to 1972x1252, mode Windowed.
+[2024.03.09-20.52.36:175][ 84]LogViewport: Scene viewport resized to 1966x1252, mode Windowed.
+[2024.03.09-20.52.36:192][ 85]LogViewport: Scene viewport resized to 1958x1252, mode Windowed.
+[2024.03.09-20.52.36:222][ 86]LogViewport: Scene viewport resized to 1935x1252, mode Windowed.
+[2024.03.09-20.52.36:239][ 87]LogViewport: Scene viewport resized to 1912x1252, mode Windowed.
+[2024.03.09-20.52.36:274][ 88]LogViewport: Scene viewport resized to 1857x1252, mode Windowed.
+[2024.03.09-20.52.36:314][ 89]LogViewport: Scene viewport resized to 1790x1252, mode Windowed.
+[2024.03.09-20.52.36:350][ 90]LogViewport: Scene viewport resized to 1749x1252, mode Windowed.
+[2024.03.09-20.52.36:381][ 91]LogViewport: Scene viewport resized to 1735x1252, mode Windowed.
+[2024.03.09-20.52.36:405][ 92]LogViewport: Scene viewport resized to 1724x1252, mode Windowed.
+[2024.03.09-20.52.36:440][ 93]LogViewport: Scene viewport resized to 1709x1252, mode Windowed.
+[2024.03.09-20.52.36:457][ 94]LogViewport: Scene viewport resized to 1700x1252, mode Windowed.
+[2024.03.09-20.52.36:487][ 95]LogViewport: Scene viewport resized to 1685x1252, mode Windowed.
+[2024.03.09-20.52.36:517][ 96]LogViewport: Scene viewport resized to 1668x1252, mode Windowed.
+[2024.03.09-20.52.36:535][ 97]LogViewport: Scene viewport resized to 1659x1252, mode Windowed.
+[2024.03.09-20.52.36:567][ 98]LogViewport: Scene viewport resized to 1644x1252, mode Windowed.
+[2024.03.09-20.52.36:598][ 99]LogViewport: Scene viewport resized to 1631x1252, mode Windowed.
+[2024.03.09-20.52.36:616][100]LogViewport: Scene viewport resized to 1623x1252, mode Windowed.
+[2024.03.09-20.52.36:647][101]LogViewport: Scene viewport resized to 1611x1252, mode Windowed.
+[2024.03.09-20.52.36:665][102]LogViewport: Scene viewport resized to 1604x1252, mode Windowed.
+[2024.03.09-20.52.36:693][103]LogViewport: Scene viewport resized to 1592x1252, mode Windowed.
+[2024.03.09-20.52.36:715][104]LogViewport: Scene viewport resized to 1582x1252, mode Windowed.
+[2024.03.09-20.52.36:743][105]LogViewport: Scene viewport resized to 1569x1252, mode Windowed.
+[2024.03.09-20.52.36:760][106]LogViewport: Scene viewport resized to 1561x1252, mode Windowed.
+[2024.03.09-20.52.36:794][107]LogViewport: Scene viewport resized to 1551x1252, mode Windowed.
+[2024.03.09-20.52.36:812][108]LogViewport: Scene viewport resized to 1547x1252, mode Windowed.
+[2024.03.09-20.52.36:840][109]LogViewport: Scene viewport resized to 1540x1252, mode Windowed.
+[2024.03.09-20.52.36:859][110]LogViewport: Scene viewport resized to 1534x1252, mode Windowed.
+[2024.03.09-20.52.36:891][111]LogViewport: Scene viewport resized to 1527x1252, mode Windowed.
+[2024.03.09-20.52.36:909][112]LogViewport: Scene viewport resized to 1523x1252, mode Windowed.
+[2024.03.09-20.52.36:927][113]LogViewport: Scene viewport resized to 1521x1252, mode Windowed.
+[2024.03.09-20.52.36:955][114]LogViewport: Scene viewport resized to 1518x1252, mode Windowed.
+[2024.03.09-20.52.36:973][115]LogViewport: Scene viewport resized to 1517x1252, mode Windowed.
+[2024.03.09-20.52.37:301][153]LogViewport: Scene viewport resized to 1518x1252, mode Windowed.
+[2024.03.09-20.52.37:319][154]LogViewport: Scene viewport resized to 1521x1252, mode Windowed.
+[2024.03.09-20.52.37:337][155]LogViewport: Scene viewport resized to 1525x1252, mode Windowed.
+[2024.03.09-20.52.37:355][156]LogViewport: Scene viewport resized to 1532x1252, mode Windowed.
+[2024.03.09-20.52.37:374][157]LogViewport: Scene viewport resized to 1539x1252, mode Windowed.
+[2024.03.09-20.52.37:393][158]LogViewport: Scene viewport resized to 1546x1252, mode Windowed.
+[2024.03.09-20.52.37:411][159]LogViewport: Scene viewport resized to 1553x1252, mode Windowed.
+[2024.03.09-20.52.37:433][160]LogViewport: Scene viewport resized to 1561x1252, mode Windowed.
+[2024.03.09-20.52.37:449][161]LogViewport: Scene viewport resized to 1566x1252, mode Windowed.
+[2024.03.09-20.52.37:469][162]LogViewport: Scene viewport resized to 1568x1252, mode Windowed.
+[2024.03.09-20.52.37:489][163]LogViewport: Scene viewport resized to 1569x1252, mode Windowed.
+[2024.03.09-20.52.37:506][164]LogViewport: Scene viewport resized to 1571x1252, mode Windowed.
+[2024.03.09-20.52.37:533][166]LogViewport: Scene viewport resized to 1572x1252, mode Windowed.
+[2024.03.09-20.52.37:553][167]LogViewport: Scene viewport resized to 1574x1252, mode Windowed.
+[2024.03.09-20.52.37:569][168]LogViewport: Scene viewport resized to 1576x1252, mode Windowed.
+[2024.03.09-20.52.37:588][169]LogViewport: Scene viewport resized to 1577x1252, mode Windowed.
+[2024.03.09-20.52.37:605][170]LogViewport: Scene viewport resized to 1580x1252, mode Windowed.
+[2024.03.09-20.52.37:622][171]LogViewport: Scene viewport resized to 1581x1252, mode Windowed.
+[2024.03.09-20.52.37:643][172]LogViewport: Scene viewport resized to 1585x1252, mode Windowed.
+[2024.03.09-20.52.37:661][173]LogViewport: Scene viewport resized to 1587x1252, mode Windowed.
+[2024.03.09-20.52.37:679][174]LogViewport: Scene viewport resized to 1590x1252, mode Windowed.
+[2024.03.09-20.52.37:698][175]LogViewport: Scene viewport resized to 1591x1252, mode Windowed.
+[2024.03.09-20.52.37:717][176]LogViewport: Scene viewport resized to 1592x1252, mode Windowed.
+[2024.03.09-20.52.37:960][204]LogViewport: Scene viewport resized to 1593x1252, mode Windowed.
+[2024.03.09-20.52.37:978][205]LogViewport: Scene viewport resized to 1595x1252, mode Windowed.
+[2024.03.09-20.52.38:006][207]LogViewport: Scene viewport resized to 1597x1252, mode Windowed.
+[2024.03.09-20.52.38:023][208]LogViewport: Scene viewport resized to 1599x1252, mode Windowed.
+[2024.03.09-20.52.38:041][209]LogViewport: Scene viewport resized to 1601x1252, mode Windowed.
+[2024.03.09-20.52.38:062][210]LogViewport: Scene viewport resized to 1604x1252, mode Windowed.
+[2024.03.09-20.52.38:081][211]LogViewport: Scene viewport resized to 1606x1252, mode Windowed.
+[2024.03.09-20.52.38:101][212]LogViewport: Scene viewport resized to 1608x1252, mode Windowed.
+[2024.03.09-20.52.38:117][213]LogViewport: Scene viewport resized to 1610x1252, mode Windowed.
+[2024.03.09-20.52.38:137][214]LogViewport: Scene viewport resized to 1612x1252, mode Windowed.
+[2024.03.09-20.52.38:157][215]LogViewport: Scene viewport resized to 1616x1252, mode Windowed.
+[2024.03.09-20.52.38:175][216]LogViewport: Scene viewport resized to 1619x1252, mode Windowed.
+[2024.03.09-20.52.38:195][217]LogViewport: Scene viewport resized to 1623x1252, mode Windowed.
+[2024.03.09-20.52.38:213][218]LogViewport: Scene viewport resized to 1626x1252, mode Windowed.
+[2024.03.09-20.52.38:232][219]LogViewport: Scene viewport resized to 1629x1252, mode Windowed.
+[2024.03.09-20.52.38:251][220]LogViewport: Scene viewport resized to 1631x1252, mode Windowed.
+[2024.03.09-20.52.38:270][221]LogViewport: Scene viewport resized to 1633x1252, mode Windowed.
+[2024.03.09-20.52.38:286][222]LogViewport: Scene viewport resized to 1636x1252, mode Windowed.
+[2024.03.09-20.52.38:308][223]LogViewport: Scene viewport resized to 1639x1252, mode Windowed.
+[2024.03.09-20.52.38:326][224]LogViewport: Scene viewport resized to 1641x1252, mode Windowed.
+[2024.03.09-20.52.38:422][234]LogViewport: Scene viewport resized to 1639x1252, mode Windowed.
+[2024.03.09-20.52.38:441][235]LogViewport: Scene viewport resized to 1636x1252, mode Windowed.
+[2024.03.09-20.52.38:457][236]LogViewport: Scene viewport resized to 1629x1252, mode Windowed.
+[2024.03.09-20.52.38:476][237]LogViewport: Scene viewport resized to 1622x1252, mode Windowed.
+[2024.03.09-20.52.38:495][238]LogViewport: Scene viewport resized to 1613x1252, mode Windowed.
+[2024.03.09-20.52.38:514][239]LogViewport: Scene viewport resized to 1601x1252, mode Windowed.
+[2024.03.09-20.52.38:532][240]LogViewport: Scene viewport resized to 1591x1252, mode Windowed.
+[2024.03.09-20.52.38:554][241]LogViewport: Scene viewport resized to 1585x1252, mode Windowed.
+[2024.03.09-20.52.38:572][242]LogViewport: Scene viewport resized to 1584x1252, mode Windowed.
+[2024.03.09-20.52.38:590][243]LogViewport: Scene viewport resized to 1582x1252, mode Windowed.
+[2024.03.09-20.52.38:611][244]LogViewport: Scene viewport resized to 1581x1252, mode Windowed.
+[2024.03.09-20.52.38:629][245]LogViewport: Scene viewport resized to 1579x1252, mode Windowed.
+[2024.03.09-20.52.38:646][246]LogViewport: Scene viewport resized to 1578x1252, mode Windowed.
+[2024.03.09-20.52.38:667][247]LogViewport: Scene viewport resized to 1575x1252, mode Windowed.
+[2024.03.09-20.52.38:684][248]LogViewport: Scene viewport resized to 1573x1252, mode Windowed.
+[2024.03.09-20.52.38:703][249]LogViewport: Scene viewport resized to 1570x1252, mode Windowed.
+[2024.03.09-20.52.38:722][250]LogViewport: Scene viewport resized to 1569x1252, mode Windowed.
+[2024.03.09-20.52.38:740][251]LogViewport: Scene viewport resized to 1566x1252, mode Windowed.
+[2024.03.09-20.52.38:759][252]LogViewport: Scene viewport resized to 1565x1252, mode Windowed.
+[2024.03.09-20.52.38:775][253]LogViewport: Scene viewport resized to 1564x1252, mode Windowed.
+[2024.03.09-20.52.46:027][ 93]LogViewport: Scene viewport resized to 1562x1252, mode Windowed.
+[2024.03.09-20.52.46:047][ 94]LogViewport: Scene viewport resized to 1558x1252, mode Windowed.
+[2024.03.09-20.52.46:065][ 95]LogViewport: Scene viewport resized to 1551x1252, mode Windowed.
+[2024.03.09-20.52.46:084][ 96]LogViewport: Scene viewport resized to 1545x1252, mode Windowed.
+[2024.03.09-20.52.46:104][ 97]LogViewport: Scene viewport resized to 1538x1252, mode Windowed.
+[2024.03.09-20.52.46:123][ 98]LogViewport: Scene viewport resized to 1531x1252, mode Windowed.
+[2024.03.09-20.52.46:143][ 99]LogViewport: Scene viewport resized to 1525x1252, mode Windowed.
+[2024.03.09-20.52.46:164][100]LogViewport: Scene viewport resized to 1522x1252, mode Windowed.
+[2024.03.09-20.52.46:184][101]LogViewport: Scene viewport resized to 1520x1252, mode Windowed.
+[2024.03.09-20.52.52:972][895]LogViewport: Scene viewport resized to 1518x1252, mode Windowed.
+[2024.03.09-20.52.52:990][896]LogViewport: Scene viewport resized to 1512x1252, mode Windowed.
+[2024.03.09-20.52.53:010][897]LogViewport: Scene viewport resized to 1505x1252, mode Windowed.
+[2024.03.09-20.52.53:029][898]LogViewport: Scene viewport resized to 1497x1252, mode Windowed.
+[2024.03.09-20.52.53:060][899]LogViewport: Scene viewport resized to 1483x1252, mode Windowed.
+[2024.03.09-20.52.53:078][900]LogViewport: Scene viewport resized to 1476x1252, mode Windowed.
+[2024.03.09-20.52.53:107][901]LogViewport: Scene viewport resized to 1469x1252, mode Windowed.
+[2024.03.09-20.52.53:126][902]LogViewport: Scene viewport resized to 1466x1252, mode Windowed.
+[2024.03.09-20.52.53:157][903]LogViewport: Scene viewport resized to 1463x1252, mode Windowed.
+[2024.03.09-20.52.53:175][904]LogViewport: Scene viewport resized to 1461x1252, mode Windowed.
+[2024.03.09-20.52.53:194][905]LogViewport: Scene viewport resized to 1458x1252, mode Windowed.
+[2024.03.09-20.52.53:213][906]LogViewport: Scene viewport resized to 1456x1252, mode Windowed.
+[2024.03.09-20.52.53:231][907]LogViewport: Scene viewport resized to 1453x1252, mode Windowed.
+[2024.03.09-20.52.53:249][908]LogViewport: Scene viewport resized to 1449x1252, mode Windowed.
+[2024.03.09-20.52.53:279][909]LogViewport: Scene viewport resized to 1442x1252, mode Windowed.
+[2024.03.09-20.52.53:297][910]LogViewport: Scene viewport resized to 1438x1252, mode Windowed.
+[2024.03.09-20.52.53:315][911]LogViewport: Scene viewport resized to 1433x1252, mode Windowed.
+[2024.03.09-20.52.53:351][912]LogViewport: Scene viewport resized to 1423x1252, mode Windowed.
+[2024.03.09-20.52.53:370][913]LogViewport: Scene viewport resized to 1417x1252, mode Windowed.
+[2024.03.09-20.52.53:387][914]LogViewport: Scene viewport resized to 1412x1252, mode Windowed.
+[2024.03.09-20.52.53:416][915]LogViewport: Scene viewport resized to 1403x1252, mode Windowed.
+[2024.03.09-20.52.53:436][916]LogViewport: Scene viewport resized to 1397x1252, mode Windowed.
+[2024.03.09-20.52.53:466][917]LogViewport: Scene viewport resized to 1387x1252, mode Windowed.
+[2024.03.09-20.52.53:487][918]LogViewport: Scene viewport resized to 1379x1252, mode Windowed.
+[2024.03.09-20.52.53:516][919]LogViewport: Scene viewport resized to 1368x1252, mode Windowed.
+[2024.03.09-20.52.53:534][920]LogViewport: Scene viewport resized to 1362x1252, mode Windowed.
+[2024.03.09-20.52.53:565][921]LogViewport: Scene viewport resized to 1353x1252, mode Windowed.
+[2024.03.09-20.52.53:582][922]LogViewport: Scene viewport resized to 1347x1252, mode Windowed.
+[2024.03.09-20.52.53:611][923]LogViewport: Scene viewport resized to 1339x1252, mode Windowed.
+[2024.03.09-20.52.53:630][924]LogViewport: Scene viewport resized to 1334x1252, mode Windowed.
+[2024.03.09-20.52.53:672][925]LogViewport: Scene viewport resized to 1323x1252, mode Windowed.
+[2024.03.09-20.52.53:691][926]LogViewport: Scene viewport resized to 1319x1252, mode Windowed.
+[2024.03.09-20.52.53:724][927]LogViewport: Scene viewport resized to 1313x1252, mode Windowed.
+[2024.03.09-20.52.53:741][928]LogViewport: Scene viewport resized to 1310x1252, mode Windowed.
+[2024.03.09-20.52.53:774][929]LogViewport: Scene viewport resized to 1306x1252, mode Windowed.
+[2024.03.09-20.52.53:799][930]LogViewport: Scene viewport resized to 1305x1252, mode Windowed.
+[2024.03.09-20.52.53:845][933]LogViewport: Scene viewport resized to 1303x1252, mode Windowed.
+[2024.03.09-20.52.53:989][949]LogViewport: Scene viewport resized to 1305x1252, mode Windowed.
+[2024.03.09-20.52.54:025][952]LogViewport: Scene viewport resized to 1306x1252, mode Windowed.
+[2024.03.09-20.52.54:059][955]LogViewport: Scene viewport resized to 1307x1252, mode Windowed.
+[2024.03.09-20.52.54:078][956]LogViewport: Scene viewport resized to 1308x1252, mode Windowed.
+[2024.03.09-20.52.54:138][962]LogViewport: Scene viewport resized to 1310x1252, mode Windowed.
+[2024.03.09-20.52.54:300][980]LogViewport: Scene viewport resized to 1308x1252, mode Windowed.
+[2024.03.09-20.52.54:318][981]LogViewport: Scene viewport resized to 1305x1252, mode Windowed.
+[2024.03.09-20.52.54:337][982]LogViewport: Scene viewport resized to 1301x1252, mode Windowed.
+[2024.03.09-20.52.54:356][983]LogViewport: Scene viewport resized to 1299x1252, mode Windowed.
+[2024.03.09-20.52.54:375][984]LogViewport: Scene viewport resized to 1298x1252, mode Windowed.
+[2024.03.09-20.52.54:537][  2]LogViewport: Scene viewport resized to 1300x1252, mode Windowed.
+[2024.03.09-20.52.54:572][  5]LogViewport: Scene viewport resized to 1301x1252, mode Windowed.
+[2024.03.09-20.52.54:633][ 11]LogViewport: Scene viewport resized to 1302x1252, mode Windowed.
+[2024.03.09-20.52.54:651][ 12]LogViewport: Scene viewport resized to 1303x1252, mode Windowed.
+[2024.03.09-20.52.54:679][ 14]LogViewport: Scene viewport resized to 1305x1252, mode Windowed.
+[2024.03.09-20.52.54:707][ 16]LogViewport: Scene viewport resized to 1306x1252, mode Windowed.
+[2024.03.09-20.52.54:725][ 17]LogViewport: Scene viewport resized to 1308x1252, mode Windowed.
+[2024.03.09-20.52.54:742][ 18]LogViewport: Scene viewport resized to 1309x1252, mode Windowed.
+[2024.03.09-20.52.54:761][ 19]LogViewport: Scene viewport resized to 1311x1252, mode Windowed.
+[2024.03.09-20.52.54:778][ 20]LogViewport: Scene viewport resized to 1312x1252, mode Windowed.
+[2024.03.09-20.52.54:797][ 21]LogViewport: Scene viewport resized to 1315x1252, mode Windowed.
+[2024.03.09-20.52.54:814][ 22]LogViewport: Scene viewport resized to 1317x1252, mode Windowed.
+[2024.03.09-20.52.54:833][ 23]LogViewport: Scene viewport resized to 1319x1252, mode Windowed.
+[2024.03.09-20.52.54:849][ 24]LogViewport: Scene viewport resized to 1321x1252, mode Windowed.
+[2024.03.09-20.52.54:871][ 25]LogViewport: Scene viewport resized to 1322x1252, mode Windowed.
+[2024.03.09-20.52.54:888][ 26]LogViewport: Scene viewport resized to 1323x1252, mode Windowed.
+[2024.03.09-20.52.55:171][ 58]LogViewport: Scene viewport resized to 1322x1252, mode Windowed.
+[2024.03.09-20.52.55:215][ 62]LogViewport: Scene viewport resized to 1321x1252, mode Windowed.
+[2024.03.09-20.52.55:249][ 65]LogViewport: Scene viewport resized to 1320x1252, mode Windowed.
+[2024.03.09-20.52.55:409][ 83]LogViewport: Scene viewport resized to 1321x1252, mode Windowed.
+[2024.03.09-20.52.55:427][ 84]LogViewport: Scene viewport resized to 1324x1252, mode Windowed.
+[2024.03.09-20.52.55:444][ 85]LogViewport: Scene viewport resized to 1328x1252, mode Windowed.
+[2024.03.09-20.52.55:463][ 86]LogViewport: Scene viewport resized to 1331x1252, mode Windowed.
+[2024.03.09-20.52.55:482][ 87]LogViewport: Scene viewport resized to 1333x1252, mode Windowed.
+[2024.03.09-20.52.55:518][ 90]LogViewport: Scene viewport resized to 1335x1252, mode Windowed.
+[2024.03.09-20.52.55:669][107]LogViewport: Scene viewport resized to 1333x1252, mode Windowed.
+[2024.03.09-20.53.02:924][957]LogViewport: Scene viewport resized to 1335x1252, mode Windowed.
+[2024.03.09-20.53.02:941][958]LogViewport: Scene viewport resized to 1337x1252, mode Windowed.
+[2024.03.09-20.53.02:960][959]LogViewport: Scene viewport resized to 1340x1252, mode Windowed.
+[2024.03.09-20.53.02:978][960]LogViewport: Scene viewport resized to 1341x1252, mode Windowed.
+[2024.03.09-20.53.02:997][961]LogViewport: Scene viewport resized to 1345x1252, mode Windowed.
+[2024.03.09-20.53.03:015][962]LogViewport: Scene viewport resized to 1347x1252, mode Windowed.
+[2024.03.09-20.53.03:033][963]LogViewport: Scene viewport resized to 1349x1252, mode Windowed.
+[2024.03.09-20.53.03:051][964]LogViewport: Scene viewport resized to 1350x1252, mode Windowed.
+[2024.03.09-20.53.03:103][969]LogViewport: Scene viewport resized to 1351x1252, mode Windowed.
+[2024.03.09-20.53.03:121][970]LogViewport: Scene viewport resized to 1352x1252, mode Windowed.
+[2024.03.09-20.53.03:139][971]LogViewport: Scene viewport resized to 1354x1252, mode Windowed.
+[2024.03.09-20.53.03:156][972]LogViewport: Scene viewport resized to 1355x1252, mode Windowed.
+[2024.03.09-20.53.03:175][973]LogViewport: Scene viewport resized to 1358x1252, mode Windowed.
+[2024.03.09-20.53.03:194][974]LogViewport: Scene viewport resized to 1363x1252, mode Windowed.
+[2024.03.09-20.53.03:211][975]LogViewport: Scene viewport resized to 1369x1252, mode Windowed.
+[2024.03.09-20.53.03:230][976]LogViewport: Scene viewport resized to 1377x1252, mode Windowed.
+[2024.03.09-20.53.03:250][977]LogViewport: Scene viewport resized to 1384x1252, mode Windowed.
+[2024.03.09-20.53.03:267][978]LogViewport: Scene viewport resized to 1388x1252, mode Windowed.
+[2024.03.09-20.53.03:287][979]LogViewport: Scene viewport resized to 1391x1252, mode Windowed.
+[2024.03.09-20.53.03:305][980]LogViewport: Scene viewport resized to 1393x1252, mode Windowed.
+[2024.03.09-20.53.03:323][981]LogViewport: Scene viewport resized to 1394x1252, mode Windowed.
+[2024.03.09-20.53.03:492][  0]LogViewport: Scene viewport resized to 1395x1252, mode Windowed.
+[2024.03.09-20.53.03:551][  6]LogViewport: Scene viewport resized to 1396x1252, mode Windowed.
+[2024.03.09-20.53.03:568][  7]LogViewport: Scene viewport resized to 1397x1252, mode Windowed.
+[2024.03.09-20.53.03:814][ 35]LogViewport: Scene viewport resized to 1398x1252, mode Windowed.
+[2024.03.09-20.53.03:831][ 36]LogViewport: Scene viewport resized to 1400x1252, mode Windowed.
+[2024.03.09-20.53.03:848][ 37]LogViewport: Scene viewport resized to 1404x1252, mode Windowed.
+[2024.03.09-20.53.03:866][ 38]LogViewport: Scene viewport resized to 1407x1252, mode Windowed.
+[2024.03.09-20.53.03:884][ 39]LogViewport: Scene viewport resized to 1409x1252, mode Windowed.
+[2024.03.09-20.58.05:063][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.09-20.58.05:071][282]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.038
+[2024.03.09-20.58.05:071][282]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES] ([2] browsable assets)...
+[2024.03.09-20.58.05:071][282]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES]
+[2024.03.09-20.58.05:073][282]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES_Auto6
+[2024.03.09-20.58.05:073][282]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_INTERFACE_ABILITIES_Auto6BD70944D42B39C0E96B3E5BE97CF3957.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES_Auto6.uasset'
+[2024.03.09-20.58.05:073][282]LogFileHelpers: Auto-saving content packages took 0.002
+[2024.03.09-20.58.38:614][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-20.58.38:671][963]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES
+[2024.03.09-20.58.38:672][963]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_INTERFACE_ABILITIES5ADC8EAE4232424283027997AA13FA0C.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.uasset'
+[2024.03.09-20.58.38:694][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.45 sec)
+[2024.03.09-20.58.38:695][963]AssetCheck: New page: Asset Save: BP_INTERFACE_ABILITIES
+[2024.03.09-20.58.38:695][963]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.BP_INTERFACE_ABILITIES
+[2024.03.09-20.58.40:345][ 75]BlueprintLog: New page: Compile BP_INTERFACE_ABILITIES
+[2024.03.09-20.58.40:393][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.09-20.58.40:903][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-20.58.40:954][107]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES
+[2024.03.09-20.58.40:954][107]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_INTERFACE_ABILITIES9B3B9DD348DB845672EFD5B48BEEC84E.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.uasset'
+[2024.03.09-20.58.40:977][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 4.52 sec)
+[2024.03.09-20.58.40:978][107]AssetCheck: New page: Asset Save: BP_INTERFACE_ABILITIES
+[2024.03.09-20.58.40:978][107]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.BP_INTERFACE_ABILITIES
+[2024.03.09-21.01.30:921][370]BlueprintLog: New page: Compile BP_INTERFACE_ABILITIES
+[2024.03.09-21.01.30:970][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.09-21.01.31:357][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.01.31:407][394]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES
+[2024.03.09-21.01.31:408][394]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_INTERFACE_ABILITIES666AD8584D92D208C7C2CDAC4863CEB4.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.uasset'
+[2024.03.09-21.01.31:430][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.59 sec)
+[2024.03.09-21.01.31:431][394]AssetCheck: New page: Asset Save: BP_INTERFACE_ABILITIES
+[2024.03.09-21.01.31:431][394]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.BP_INTERFACE_ABILITIES
+[2024.03.09-21.01.38:467][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.01.38:535][837]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.01.38:536][837]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree5ADFE03A4678B8762855D1B4320C72C2.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.01.38:543][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 4.67 sec)
+[2024.03.09-21.01.38:544][837]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.01.38:544][837]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.01.59:053][ 94]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.09-21.01.59:169][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.09-21.01.59:583][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.01.59:675][115]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.01.59:675][115]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree0230EC0A49A297F9421BC1BE1A6133B7.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.01.59:682][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 4.77 sec)
+[2024.03.09-21.01.59:683][115]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.01.59:683][115]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.02.44:357][ 53]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.09-21.02.44:467][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.03.09-21.02.44:844][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.02.44:914][ 69]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.02.44:915][ 69]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree7CF935F94034C53907D98683ADE75AB2.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.02.44:922][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 4.85 sec)
+[2024.03.09-21.02.44:923][ 69]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.02.44:923][ 69]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.04.08:300][202]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.09-21.04.08:435][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.09-21.04.08:801][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.04.08:883][221]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.04.08:884][221]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree1B2DAF7040F960D60E52BAB121D2C4C6.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.04.08:891][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.94 sec)
+[2024.03.09-21.04.08:893][221]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.04.08:893][221]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.06.13:161][574]BlueprintLog: New page: Compile BP_INTERFACE_ABILITIES
+[2024.03.09-21.06.13:219][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.09-21.06.13:644][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.06.13:697][599]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES
+[2024.03.09-21.06.13:697][599]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_INTERFACE_ABILITIES420C6FAB4D57EE5249FE1884726088CA.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.uasset'
+[2024.03.09-21.06.13:719][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 5.02 sec)
+[2024.03.09-21.06.13:720][599]AssetCheck: New page: Asset Save: BP_INTERFACE_ABILITIES
+[2024.03.09-21.06.13:720][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.BP_INTERFACE_ABILITIES
+[2024.03.09-21.07.35:745][716]BlueprintLog: New page: Compile BP_INTERFACE_ABILITIES
+[2024.03.09-21.07.35:800][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.09-21.07.36:144][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.07.36:214][730]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES
+[2024.03.09-21.07.36:215][730]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_INTERFACE_ABILITIES0327430540285C6BC02DDE90BA9C0601.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.uasset'
+[2024.03.09-21.07.36:258][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 5.13 sec)
+[2024.03.09-21.07.36:260][730]AssetCheck: New page: Asset Save: BP_INTERFACE_ABILITIES
+[2024.03.09-21.07.36:260][730]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.BP_INTERFACE_ABILITIES
+[2024.03.09-21.07.39:876][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.07.39:957][954]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.07.39:957][954]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree44568436495A03A8AD284781167A1634.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.07.39:965][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.22 sec)
+[2024.03.09-21.07.39:966][954]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.07.39:966][954]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.08.06:726][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.08.06:838][601]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.08.06:839][601]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree67AAC7664E995FD2EDFDF0B00A78CB41.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.08.06:845][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 5.34 sec)
+[2024.03.09-21.08.06:846][601]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.08.06:847][601]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.08.07:267][620]BlueprintLog: New page: Compile BP_UI_Skilltree
+[2024.03.09-21.08.07:378][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.03.09-21.08.07:753][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.08.07:838][639]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.08.07:838][639]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree272FD7E6404F28CF4279728FA16C9B91.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.08.07:846][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 5.43 sec)
+[2024.03.09-21.08.07:847][639]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.08.07:848][639]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.08.09:800][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.09-21.08.09:805][709]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.09-21.08.09:805][709]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.09-21.08.09:806][709]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 28 ms)
+[2024.03.09-21.08.09:806][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.09-21.08.09:806][709]PIE: New page: PIE session: ThirdPersonMap (9 Mar 2024, 21:08:09)
+[2024.03.09-21.08.09:806][709]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-21.08.09:809][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002475s)
+[2024.03.09-21.08.09:809][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002500s)
+[2024.03.09-21.08.09:837][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.09-21.08.09:840][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.09-21.08.09:841][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.09-21.08.09:841][709]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.09-21.08.09:841][709]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.09-21.08.09:841][709]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.09-21.08.09:841][709]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.09-21.08.09:841][709]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.09-21.08.09:842][709]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.09-21.08.09:842][709]LogWorldPartition: Display: WorldPartition initialize took 803 us (total: 53 ms)
+[2024.03.09-21.08.09:842][709]LogPlayLevel: PIE: World Init took: (0.001804s)
+[2024.03.09-21.08.09:842][709]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.03.09-21.08.09:842][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.09-21.08.09:842][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.09-21.08.09:842][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.09-21.08.09:842][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.09-21.08.09:842][709]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.09-21.08.09:842][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.09-21.08.09:842][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.09-21.08.09:842][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.09-21.08.09:843][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.09-21.08.09:843][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.09-21.08.09:843][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.09-21.08.09:844][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.09-21.08.09:884][709]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio CODEC )
+[2024.03.09-21.08.09:885][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.09-21.08.09:885][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.09-21.08.09:885][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.09-21.08.09:886][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.03.09-21.08.09:886][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2024.03.09-21.08.09:887][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.03.09-21.08.09:887][709]LogInit: FAudioDevice initialized with ID 25.
+[2024.03.09-21.08.09:887][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.03.09-21.08.09:887][709]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2024.03.09-21.08.09:887][709]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.09-21.08.09:889][709]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.09-21.08.09:891][709]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.03.09-21.08.09
+[2024.03.09-21.08.09:891][709]LogWorld: Bringing up level for play took: 0.001120
+[2024.03.09-21.08.09:892][709]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.03.09-21.08.09:901][709]PIE: Server logged in
+[2024.03.09-21.08.09:902][709]PIE: Play in editor total start time 0.096 seconds.
+[2024.03.09-21.08.10:913][815]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.09-21.08.14:108][198]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.03.09-21.08.14:965][301]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.03.09-21.08.16:966][541]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.03.09-21.08.17:740][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-21.08.17:740][630]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-21.08.17:740][630]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.09-21.08.17:740][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-21.08.17:740][630]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.09-21.08.17:744][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.09-21.08.17:751][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-21.08.17:786][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.09-21.08.17:788][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.03.09-21.08.17:788][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.09-21.08.17:789][630]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.03.09-21.08.17:825][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-21.08.17:827][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.03.09-21.08.17:902][631]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.03.09-21.08.19:105][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.08.19:170][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.03.09-21.08.19:181][769]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2024.03.09-21.08.19:181][769]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/ThirdPersonMapF834DEAD410DA4BF28CFEAA57DD32EBE.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2024.03.09-21.08.19:186][769]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.054
+[2024.03.09-21.08.19:198][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 5.52 sec)
+[2024.03.09-21.08.19:201][769]AssetCheck: New page: Asset Save: ThirdPersonMap
+[2024.03.09-21.08.19:201][769]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.03.09-21.18.19:188][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.03.09-21.18.19:193][622]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.03.09-21.18.19:194][622]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_UI_Skilltree] ([2] browsable assets)...
+[2024.03.09-21.18.19:194][622]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_UI_Skilltree]
+[2024.03.09-21.18.19:206][622]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_UI_Skilltree_Auto7
+[2024.03.09-21.18.19:206][622]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree_Auto716CCCABE45448C8DD61989A0B75B0BE5.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_UI_Skilltree_Auto7.uasset'
+[2024.03.09-21.18.19:207][622]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.03.09-21.19.06:727][618]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.19.06:770][618]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.19.06:770][618]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree9B145EFB46EDDB4AAEECB898DC06E534.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.19.06:778][618]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 5.57 sec)
+[2024.03.09-21.19.06:780][618]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.19.06:780][618]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.29.59:179][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-21.29.59:220][687]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-21.29.59:222][687]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_SkilltreeFF235FCA4995C089AADD00B32EB4270E.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-21.29.59:228][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 5.62 sec)
+[2024.03.09-21.29.59:229][687]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-21.29.59:229][687]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-21.31.46:545][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.03.09-21.31.46:551][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.040
+[2024.03.09-21.31.46:551][188]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_UI_Skilltree] ([2] browsable assets)...
+[2024.03.09-21.31.46:551][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_UI_Skilltree]
+[2024.03.09-21.31.46:564][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_UI_Skilltree_Auto8
+[2024.03.09-21.31.46:564][188]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree_Auto883A987C84860122A384EF184EC78679A.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_UI_Skilltree_Auto8.uasset'
+[2024.03.09-21.31.46:564][188]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.03.09-21.33.50:227][673]LogDerivedDataCache: C:/Users/archi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.028 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1164 files in 1871 folders with total size 6 MiB.
+[2024.03.09-21.41.47:106][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.03.09-21.41.47:109][409]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2024.03.09-21.41.47:109][409]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_UI_Skilltree] ([2] browsable assets)...
+[2024.03.09-21.41.47:109][409]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_UI_Skilltree]
+[2024.03.09-21.41.47:122][409]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_UI_Skilltree_Auto9
+[2024.03.09-21.41.47:122][409]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree_Auto9191212A74B35F48C93DF74A0BA659138.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_UI_Skilltree_Auto9.uasset'
+[2024.03.09-21.41.47:123][409]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.03.09-22.30.02:017][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.09-22.30.02:096][124]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_UI_Skilltree
+[2024.03.09-22.30.02:097][124]LogSavePackage: Moving '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Saved/BP_UI_Skilltree7FDCC34A4148AFF8E835C89D26652E17.tmp' to '../../../../../../Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_UI_Skilltree.uasset'
+[2024.03.09-22.30.02:105][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 5.71 sec)
+[2024.03.09-22.30.02:110][124]AssetCheck: New page: Asset Save: BP_UI_Skilltree
+[2024.03.09-22.30.02:110][124]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/BP_UI_Skilltree.BP_UI_Skilltree
+[2024.03.09-22.33.49:256][732]LogDerivedDataCache: C:/Users/archi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1164 files in 1871 folders with total size 6 MiB.
+[2024.03.09-22.38.12:424][939]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.03.09-22.38.12:431][939]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.09-22.38.12:431][939]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.03.09-22.38.12:433][939]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 30 ms)
+[2024.03.09-22.38.12:434][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.09-22.38.12:434][939]PIE: New page: PIE session: ThirdPersonMap (9 Mar 2024, 22:38:12)
+[2024.03.09-22.38.12:435][939]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-22.38.12:445][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010080s)
+[2024.03.09-22.38.12:445][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.010207s)
+[2024.03.09-22.38.12:604][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2024.03.09-22.38.12:608][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.09-22.38.12:608][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.09-22.38.12:609][939]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.03.09-22.38.12:610][939]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.09-22.38.12:610][939]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.09-22.38.12:610][939]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.09-22.38.12:610][939]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.09-22.38.12:611][939]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.03.09-22.38.12:611][939]LogWorldPartition: Display: WorldPartition initialize took 944 us (total: 54 ms)
+[2024.03.09-22.38.12:611][939]LogPlayLevel: PIE: World Init took: (0.003149s)
+[2024.03.09-22.38.12:611][939]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.03.09-22.38.12:611][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.09-22.38.12:611][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.09-22.38.12:611][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.09-22.38.12:611][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.09-22.38.12:611][939]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.09-22.38.12:611][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.09-22.38.12:611][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.09-22.38.12:611][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.09-22.38.12:612][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.09-22.38.12:612][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.09-22.38.12:612][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.09-22.38.12:614][939]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.09-22.38.12:653][939]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB Audio CODEC )
+[2024.03.09-22.38.12:655][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.09-22.38.12:655][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.09-22.38.12:655][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.09-22.38.12:657][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.03.09-22.38.12:657][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=26
+[2024.03.09-22.38.12:659][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.03.09-22.38.12:659][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.03.09-22.38.12:659][939]LogInit: FAudioDevice initialized with ID 26.
+[2024.03.09-22.38.12:659][939]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2024.03.09-22.38.12:659][939]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.09-22.38.12:665][939]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.03.09-22.38.12:667][939]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.03.09-22.38.12
+[2024.03.09-22.38.12:667][939]LogWorld: Bringing up level for play took: 0.001489
+[2024.03.09-22.38.12:670][939]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.03.09-22.38.12:686][939]PIE: Server logged in
+[2024.03.09-22.38.12:687][939]PIE: Play in editor total start time 0.255 seconds.
+[2024.03.09-22.38.13:674][ 49]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.03.09-22.38.29:813][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-22.38.29:813][973]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.03.09-22.38.29:813][973]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.09-22.38.29:814][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-22.38.29:814][973]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.03.09-22.38.29:817][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.09-22.38.29:825][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.09-22.38.29:860][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.09-22.38.29:861][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.03.09-22.38.29:861][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.09-22.38.29:865][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.03.09-22.38.29:903][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.09-22.38.29:906][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.03.09-22.38.29:998][974]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 0 (Found bundle for host: 0xbab561608d0 [serially])
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 6 (Closing connection)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 9 (  Trying 3.230.8.136:443...)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.230.8.136) port 443)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 25 (Server certificate:)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 34 (Closing connection)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: 00000BABF22C6400: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.09-22.46.25:122][549]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23B27749-4BDC-1AD4-A92A-A981177E9DCC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=1e7c63cb472f85657ad49e8258da6a26%7Cfc3687279b54493486efdcbd1729f7dc%7C77febffa-a3c3-4eff-9b03-819a5c4e1a5e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.09-23.15.19:268][  5]LogViewport: Scene viewport resized to 1410x1252, mode Windowed.
+[2024.03.09-23.15.19:323][ 10]LogViewport: Scene viewport resized to 1408x1252, mode Windowed.
+[2024.03.09-23.15.19:357][ 13]LogViewport: Scene viewport resized to 1407x1252, mode Windowed.
+[2024.03.09-23.15.19:392][ 16]LogViewport: Scene viewport resized to 1406x1252, mode Windowed.
+[2024.03.09-23.15.19:427][ 19]LogViewport: Scene viewport resized to 1405x1252, mode Windowed.
+[2024.03.09-23.15.19:471][ 23]LogViewport: Scene viewport resized to 1403x1252, mode Windowed.
+[2024.03.09-23.15.19:504][ 26]LogViewport: Scene viewport resized to 1404x1252, mode Windowed.
+[2024.03.09-23.15.19:520][ 27]LogViewport: Scene viewport resized to 1403x1252, mode Windowed.
+[2024.03.09-23.33.49:253][ 74]LogDerivedDataCache: C:/Users/archi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1164 files in 1871 folders with total size 6 MiB.
