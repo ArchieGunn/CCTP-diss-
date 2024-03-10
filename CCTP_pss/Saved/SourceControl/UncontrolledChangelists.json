@@ -13,7 +13,10 @@
 				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Skillslot_Expanded.uasset",
 				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_INTERFACE_ABILITIES.uasset",
-				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BPS_Skills.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BPS_SkillTemplate.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset"
 			]
 		}
 	]
