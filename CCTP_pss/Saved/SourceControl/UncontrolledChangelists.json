@@ -16,7 +16,11 @@
 				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BPS_Skills.uasset",
 				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BPS_SkillTemplate.uasset",
-				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset"
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Challenge_Info.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BP_Challenge_Box.uasset",
+				"C:/Users/archi/Documents/gitkraken/CCTP-diss-/CCTP_pss/Content/ThirdPerson/Blueprints/BPS_ChallengeTemplate.uasset"
 			]
 		}
 	]
